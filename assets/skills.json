@@ -1,13 +1,13 @@
 {
-  "title": "Founder Skills Radar",
-  "_comment": "Self-rated skills for Adrash Bhatia - edit the labels and values (0-100), the workflow redraws the chart",
+  "title": "Skills Radar",
+  "_comment": "Self-rated skills for Adrash Bhatia - edit labels and values (0-100), the workflow redraws the chart",
   "axes": [
-    { "label": "Entrepreneurship",  "value": 90 },
-    { "label": "Product Building",  "value": 85 },
-    { "label": "Leadership",        "value": 88 },
-    { "label": "Event Management",  "value": 86 },
-    { "label": "Networking",        "value": 90 },
-    { "label": "Public Speaking",   "value": 80 },
-    { "label": "Tech & Development","value": 75 }
+    { "label": "Java",             "value": 85 },
+    { "label": "Spring Boot",      "value": 78 },
+    { "label": "Android",          "value": 82 },
+    { "label": "MySQL",            "value": 80 },
+    { "label": "Python & ML",      "value": 72 },
+    { "label": "Leadership",       "value": 88 },
+    { "label": "Entrepreneurship", "value": 90 }
   ]
 }
