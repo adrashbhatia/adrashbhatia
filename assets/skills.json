@@ -1,0 +1,13 @@
+{
+  "title": "Founder Skills Radar",
+  "_comment": "Self-rated skills for Adrash Bhatia - edit the labels and values (0-100), the workflow redraws the chart",
+  "axes": [
+    { "label": "Entrepreneurship",  "value": 90 },
+    { "label": "Product Building",  "value": 85 },
+    { "label": "Leadership",        "value": 88 },
+    { "label": "Event Management",  "value": 86 },
+    { "label": "Networking",        "value": 90 },
+    { "label": "Public Speaking",   "value": 80 },
+    { "label": "Tech & Development","value": 75 }
+  ]
+}
